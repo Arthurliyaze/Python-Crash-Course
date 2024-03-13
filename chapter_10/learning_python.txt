@@ -1,0 +1,2 @@
+In Python you can nest dictionary in list.
+In Python you can nest list in dictionary.
